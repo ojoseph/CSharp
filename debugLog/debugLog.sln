@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debugLog", "debugLog\debugLog.csproj", "{2F1C3AEE-0280-41C4-8782-2D7DFF1F012B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1C3AEE-0280-41C4-8782-2D7DFF1F012B}.Debug|x86.ActiveCfg = Debug|x86
+		{2F1C3AEE-0280-41C4-8782-2D7DFF1F012B}.Debug|x86.Build.0 = Debug|x86
+		{2F1C3AEE-0280-41C4-8782-2D7DFF1F012B}.Release|x86.ActiveCfg = Release|x86
+		{2F1C3AEE-0280-41C4-8782-2D7DFF1F012B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = debugLog\debugLog.csproj
+	EndGlobalSection
+EndGlobal

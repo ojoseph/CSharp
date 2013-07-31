@@ -1,0 +1,12 @@
+using System;
+
+namespace cSharp1
+{
+	class HelloClass
+	{
+		public static void Main (string[] args)
+		{
+			Console.WriteLine ("Hello David!");
+		}
+	}
+}
